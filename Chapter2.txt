@@ -1,1 +1,2 @@
 This is chapter 2 texfile!
+This line smells piece of cake! :)
